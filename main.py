@@ -1,6 +1,6 @@
 from laptop import Laptop
 from celular import Celular
-from computadora_escritorio import ComputadoraDeEscritorio
+from ComputadoraEscritorio import ComputadoraDeEscritorio
 from computadora_mini import ComputadoraMini
 
 if __name__ == "__main__":

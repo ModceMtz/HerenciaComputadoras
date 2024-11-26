@@ -1,4 +1,4 @@
-from computadora_escritorio import ComputadoraDeEscritorio
+from ComputadoraEscritorio import ComputadoraDeEscritorio
 
 class ComputadoraMini(ComputadoraDeEscritorio):
     def __init__(self, fabricante, fecha_fabricacion, marca, modelo, sistema_operativo,
