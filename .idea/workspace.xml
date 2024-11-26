@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e698208-7e70-462e-9823-7228f9599708" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HerenciaComputadoras.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computadoras.py" afterDir="false" />
+    <list default="true" id="8e698208-7e70-462e-9823-7228f9599708" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/HerenciaComputadoras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computadora_escritorio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computadora_mini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perifericos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computadoras_herencia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/origen.py" beforeDir="false" afterPath="$PROJECT_DIR$/origen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ModceMtz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ModceMtz/HerenciaComputadoras.git&quot;,
+    &quot;accountId&quot;: &quot;a6655228-f8f3-4dfb-b0db-2758f28222e7&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -39,7 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.HerenciaComputadoras.executor": "Run",
     "Python.computadoras.executor": "Run",
+    "Python.computadoras_herencia.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -68,13 +87,31 @@
       <updated>1731562784201</updated>
       <workItem from="1731562788144" duration="127000" />
       <workItem from="1731611409122" duration="1339000" />
+      <workItem from="1732296390983" duration="1485000" />
+      <workItem from="1732582594938" duration="3215000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1732297629921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732297629921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HerenciaComputadoras$computadoras.coverage" NAME="computadoras Coverage Results" MODIFIED="1731611531611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HerenciaComputadoras$main.coverage" NAME="main Coverage Results" MODIFIED="1732585701516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HerenciaComputadoras$computadoras.coverage" NAME="computadoras Coverage Results" MODIFIED="1732296659311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HerenciaComputadoras$computadoras_herencia.coverage" NAME="computadoras_herencia Coverage Results" MODIFIED="1732296980762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HerenciaComputadoras$HerenciaComputadoras.coverage" NAME="HerenciaComputadoras Coverage Results" MODIFIED="1732585241078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
